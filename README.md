@@ -52,23 +52,6 @@ A salvaged toy RC car converted into a wireless, feature-rich mechatronic vehicl
   - Before & after photos, custom PCB assembly photos, and modification/testing photos organized under `media/`
   - Demo and testing videos linked below
 
-## Media Gallery
-
-### Before & After
-![Before Conversion](media/before-after/before.jpg)
-![After Conversion](media/before-after/after.jpg)
-
-### Custom PCB & Assembly
-![Custom PCB](media/pcb/pcb-populated.jpg)
-
-### Modification & Testing
-![Modification and Testing](media/build-and-testing/testing-setup.jpg)
-
-## Demo Videos
-
-- [PS3 Driving & Control Demo](https://youtu.be/REPLACE_WITH_VIDEO_1_ID)
-- [PCB, Wiring & Bench Testing](https://youtu.be/REPLACE_WITH_VIDEO_2_ID)
-
 ## Project Documentation
 
 Complete project documentation including system architecture, hardware components, driving mechanics, and fabrication details can be found below:
