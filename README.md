@@ -73,4 +73,4 @@ A salvaged toy RC car converted into a wireless, feature-rich mechatronic vehicl
 
 Complete project documentation including system architecture, hardware components, driving mechanics, and fabrication details can be found below:
 
-📄 [Download Full Documentation (PDF)](docs/Car.pdf)
+📄 [Car Document](docs/Car-Document.pdf)
